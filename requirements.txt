@@ -1,0 +1,6 @@
+#virus
+telethon
+cryptg
+asyncio
+telegraph
+requests
