@@ -22,7 +22,7 @@ async def private(c,msg):
     await msg.reply("• يستخدم الامر في المجموعات فقط")
     return False 
   if msg.text == "/start" :
-    await msg.reply("• اهلا بك في بوت التاك \n• اضفني الي مجموعتك وقم بترقيتي الي مشرف \n• طريفه الاستخدام : \n @all او @all + الكلمه ")
+    await msg.reply("• اهلا بك في بوت التاك \n• اضفني الي مجموعتك وقم بترقيتي الي مشرف \n• طريقه الاستخدام : \n @all او @all + الكلمه \n\n• مطوري : @VR_LA")
     return False 
     
     
